@@ -1,5 +1,5 @@
 # Dual-Axis-Solar-Tracker
-An Embedded Systems project done with Aedan Casey.
+An Embedded Systems project done with A. Casey.
 
 ### The Idea
 A solar tracker is a system that tracks an incoming light source and moves the solar panel to that direction to always receive the maximum amount of light possible.
