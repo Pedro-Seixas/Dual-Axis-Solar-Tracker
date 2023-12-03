@@ -25,7 +25,8 @@ A solar tracker is a system that tracks an incoming light source and moves the s
 
 ### Flow Chart
 
-![image](https://github.com/Pedro-Seixas/Dual-Axis-Solar-Tracker/assets/31096534/3796cef5-7ecf-44bb-99cd-cd16eaa96e1f)
+![flowchjart](https://github.com/Pedro-Seixas/Dual-Axis-Solar-Tracker/assets/31096534/61cd6ed4-1b21-43fc-808a-6b19115482fc)
+
 
 ### Video Demo
 
